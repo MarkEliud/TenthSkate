@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232137003582",
+    "project_id": "skaters-abe8c",
+    "storage_bucket": "skaters-abe8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232137003582:android:b5d00fcf9a0f16c74c376f",
+        "android_client_info": {
+          "package_name": "com.example.tenthskate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232137003582-at8e67hdm2aroqdhegrlmoj2l6gvgjm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkT74bcfBPS45wBQj8t4eGRR4wbrojQBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232137003582-at8e67hdm2aroqdhegrlmoj2l6gvgjm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
